@@ -1,0 +1,19 @@
+{
+  "name": "response",
+  "version": "0.0.0",
+  "description": "node.js exercise using socket.IO",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:urobo/socket.IO-exercise.git"
+  },
+  "dependencies":{
+    "connect" : "1.9.2"
+    },
+  "author": "Riccardo Buttarelli",
+  "license": "BSD"
+}
